@@ -1,0 +1,24 @@
+{
+  "name": "markov-bot",
+  "version": "1.0.0",
+  "description": "Markov-Chain Discord Bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "markov-chain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axelgreavette/markov-bot"
+  },
+  "homepage": "https://github.com/axelgreavette/markov-bot",
+  "author": "Axel Greavette",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
